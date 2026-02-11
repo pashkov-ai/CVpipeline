@@ -5,9 +5,9 @@ description = "Computer Vision Pipeline for fabric defect detection"
 requires-python = ">=3.13"
 dependencies = []
 
-[build-system]
-requires = ["setuptools>=68.0"]
-build-backend = "setuptools.build_meta"
+#[build-system]
+#requires = ["setuptools>=68.0"]
+#build-backend = "setuptools.build_meta"
 
 # ============================================================================
 # RUFF - Linting and Formatting
